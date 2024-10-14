@@ -1,0 +1,9 @@
+{
+    "recommendations": [
+        "ms-python.python",
+        "usernamehw.errorlens",
+        "charliermarsh.ruff",
+        "Gruntfuggly.todo-tree",
+        "ms-toolsai.jupyter"
+    ]   
+}

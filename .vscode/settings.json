@@ -1,0 +1,8 @@
+{
+    "files.eol":"\n",
+    "python.analysis.inlayHints.functionReturnTypes": true,
+    "python.analysis.inlayHints.variableTypes": true,
+    "python.analysis.typeCheckingMode": "standard",
+    "python.analysis.diagnosticMode": "workspace", 
+    "python.defaultInterpreterPath": ".venv/bin/python",   
+}
